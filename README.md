@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hewoo Let me introduce you, my name is LUKI ADINEGORO  👋
 
-<!--
-**lukiadingr/lukiadingr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a QA Engineer passionate about test automation, web technologies, and continuous learning.  
+I am currently focusing on end-to-end testing using [**Cypress**](cypress.io), and I would like to improve my skills to become a [**Pentester**](https://www.linknet.id/article/penetration-testing).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 myTech Stack
+- 🌐 JavaScript | TypeScript | Sql | Python (newbie)
+- ⚙️ Cypress | Postman | MySql | K6 (newbie) 
+
+
+---
+
+### 🎭picture of me..
+
+![betmen](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcyb2ptZjBzOWJxYTZmeDRpaW56YjVseGx5OWsybzhnOHBvbmVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dd9BKxEiGPY5pw6kVi/giphy.gif)
+
+---
+
+### 📫 Reach Me on
+- 💼 [LinkedIn](www.linkedin.com/in/lukiadinegoro)
