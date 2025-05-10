@@ -8,7 +8,7 @@ I am currently focusing on end-to-end testing using [**Cypress**](cypress.io), a
 
 ---
 
-#### 🧰 myTech Stack!
+### 🧰 myTech Stack!
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,python" />
@@ -27,9 +27,17 @@ I am currently focusing on end-to-end testing using [**Cypress**](cypress.io), a
 
 ---
 
-#### Connect with me🥰
+### Connect with me🥰
 ![www.linkedin.com/in/lukiadinegoro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
-#### myStats😂😂
-![Luki GitHub](https://github-readme-stats.vercel.app/api?username=lukiadingr&show_icons=true&theme=tokyonight&locale=ar) 
+### myStats😂😂
+![Luki GitHub](https://github-readme-stats.vercel.app/api?username=lukiadingr&show_icons=true&theme=tokyonight&locale=ar)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/pacman-contribution-graph.svg">
+</picture>
