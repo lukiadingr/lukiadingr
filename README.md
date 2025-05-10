@@ -6,6 +6,16 @@ I am a Tech Enthusiast, passionate about test automation, web technologies, and 
 
 I am currently focusing on end-to-end testing using [**Cypress**](cypress.io), and I would like to improve my skills to become a [**Pentester**](https://www.linknet.id/article/penetration-testing).
 
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 ---
 
 ### 🧰 myTech Stack!
@@ -37,9 +47,3 @@ I am currently focusing on end-to-end testing using [**Cypress**](cypress.io), a
 ### myStats😂😂
 
 ![Luki GitHub](https://github-readme-stats.vercel.app/api?username=lukiadingr&show_icons=true&theme=tokyonight&locale=ar)
-
----
-
-<img src="https://raw.githubusercontent.com/lukiadingr/lukiadingr/output/snake.svg" alt="Snake animation" />
-
-###
