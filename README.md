@@ -1,22 +1,35 @@
-## Hewoo Let me introduce you, my name is LUKI ADINEGORO  👋
+# Hi there, I'm LUKI ADINEGORO🐱‍👤
 
-I am a QA Engineer passionate about test automation, web technologies, and continuous learning.  
+![betmen](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcyb2ptZjBzOWJxYTZmeDRpaW56YjVseGx5OWsybzhnOHBvbmVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dd9BKxEiGPY5pw6kVi/giphy.gif)
+
+I am a Tech Enthusiast, passionate about test automation, web technologies, and continuous learning.  
+
 I am currently focusing on end-to-end testing using [**Cypress**](cypress.io), and I would like to improve my skills to become a [**Pentester**](https://www.linknet.id/article/penetration-testing).
 
 ---
 
-### 🧰 myTech Stack
-- 🌐 JavaScript | TypeScript | Sql | Python (newbie)
-- ⚙️ Cypress | Postman | MySql | K6 (newbie) 
-
+#### 🧰 myTech Stack!
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,python" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cypress,postman,gherkin" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,notion" />
+  </a>
+</p>
 
 ---
 
-### 🎭picture of me..
-
-![betmen](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjcyb2ptZjBzOWJxYTZmeDRpaW56YjVseGx5OWsybzhnOHBvbmVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dd9BKxEiGPY5pw6kVi/giphy.gif)
+#### Connect with me🥰
+![www.linkedin.com/in/lukiadinegoro](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
-
-### 📫 Reach Me on
-- 💼 [LinkedIn](www.linkedin.com/in/lukiadinegoro)
+#### myStats😂😂
+![Luki GitHub](https://github-readme-stats.vercel.app/api?username=lukiadingr&show_icons=true&theme=tokyonight&locale=ar) 
